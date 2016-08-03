@@ -13,3 +13,6 @@ I will be uploading video tutorials eventually of these in real time soon. Enjoy
 | 3 | Going Live with Heroku! |
 | 4 | Lets get the MVC Rolling. Starting Backend Dev |
 | 5 | Using Rails Console, lets use some SQL! |
+| 6 | Editing, Deleting and Filtering Our Form |
+| 7 | Checking Errors and more Validation|
+| 8 | Creating New Articles From UI |
