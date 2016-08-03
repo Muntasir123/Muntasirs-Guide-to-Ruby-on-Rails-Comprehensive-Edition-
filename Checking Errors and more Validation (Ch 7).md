@@ -25,3 +25,14 @@ To do this simply add length parameters to our extended article class before
 
      validates :title, presence: true, length: {minimum: 3, maximum: 50}
       validates :description, presence: true, length: {minimum:10, maximum:300}
+
+
+Now we’ve updated quite a few of our files. We can check what we changed with
+
+    git status
+    git add -A
+    git commit -m “Create articles table and the model, as well as add validation for creating queries)
+    git push
+
+
+
