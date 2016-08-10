@@ -22,7 +22,7 @@ Then type at the end
 
 Now type in
 
-    bundle install –without production
+    bundle install –-without production
 Which makes changes to <a href = "heroku.com">Heroku</a> with those two specific **gems** (not locally)
 
 
